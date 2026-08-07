@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unxinhe.github.io/mitaoshipiae/sitemap.xml
